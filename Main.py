@@ -81,4 +81,4 @@ for i in range(len(operations)):
     elif operations[i] == "is_empty":
         result.append(obj.is_empty())
 
-print(result)
+print(result)  
